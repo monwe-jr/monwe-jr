@@ -1,4 +1,4 @@
-<p align="left">$ echo "Hello, world! I'm Francis Monwe, a tech enthusiast with a keen interest in building and problem-solving."</p>
+<h5 align="left">$ echo "Hello, world! I'm Francis Monwe, a tech enthusiast with a keen interest in building and problem-solving."</h5>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">An aspiring Cloud Engineer with a keen interest in creating Fullstack applications.</h6>
+<h4 align="left">An aspiring Cloud Engineer with a keen interest in creating Fullstack applications.</h4>
 
 ###
 
